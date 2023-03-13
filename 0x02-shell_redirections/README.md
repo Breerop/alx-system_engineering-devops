@@ -1,1 +1,1 @@
-this file is for readmee
+this file is for readme
